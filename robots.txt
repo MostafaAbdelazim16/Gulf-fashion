@@ -1,3 +1,3 @@
 User-agent: *
 Disallow:
-Sitemap: https://MostafaAbdelazim16/Gulf-fashion/sitemap.xml
+Sitemap: https://gulf-fashion.vercel.app/sitemap.xml
